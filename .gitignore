@@ -1,2 +1,9 @@
 
 jupyter/.ipynb_checkpoints/01 - Plot MET-checkpoint.ipynb
+ROOTLINQ/.vs
+*.root
+**/bin/*
+**/obj/*
+packages
+
+ROOTLINQ/start_ROOTLINQ.bat

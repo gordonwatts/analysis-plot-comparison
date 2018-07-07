@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TTreeUserInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Groups>
+    <ArrayGroup Name="ungrouped">
+      <Variables>
+        <VariableInfo NETName="pdfEventWeights" TTreeName="pdfEventWeights" />
+        <VariableInfo NETName="CalibJet_BIBDeltaTimingM" TTreeName="CalibJet_BIBDeltaTimingM" />
+        <VariableInfo NETName="CalibJet_BIBDeltaTimingP" TTreeName="CalibJet_BIBDeltaTimingP" />
+        <VariableInfo NETName="CalibJet_cluster_lead_r" TTreeName="CalibJet_cluster_lead_r" />
+        <VariableInfo NETName="CalibJet_Reg_Lxy_highEta" TTreeName="CalibJet_Reg_Lxy_highEta" />
+        <VariableInfo NETName="CalibJet_Reg_Lz_highEta" TTreeName="CalibJet_Reg_Lz_highEta" />
+        <VariableInfo NETName="CalibJet_Reg_Lxy_lowEta" TTreeName="CalibJet_Reg_Lxy_lowEta" />
+        <VariableInfo NETName="CalibJet_Reg_Lz_lowEta" TTreeName="CalibJet_Reg_Lz_lowEta" />
+        <VariableInfo NETName="LLP_E" TTreeName="LLP_E" />
+        <VariableInfo NETName="LLP_pT" TTreeName="LLP_pT" />
+        <VariableInfo NETName="LLP_eta" TTreeName="LLP_eta" />
+        <VariableInfo NETName="LLP_phi" TTreeName="LLP_phi" />
+        <VariableInfo NETName="LLP_beta" TTreeName="LLP_beta" />
+        <VariableInfo NETName="LLP_timing" TTreeName="LLP_timing" />
+        <VariableInfo NETName="LLP_Lxy" TTreeName="LLP_Lxy" />
+        <VariableInfo NETName="LLP_Lz" TTreeName="LLP_Lz" />
+        <VariableInfo NETName="LLP_dR_Jet" TTreeName="LLP_dR_Jet" />
+        <VariableInfo NETName="LLP_nJet_dRlt04" TTreeName="LLP_nJet_dRlt04" />
+        <VariableInfo NETName="eventNumber" TTreeName="eventNumber" />
+        <VariableInfo NETName="eventCount" TTreeName="eventCount" />
+        <VariableInfo NETName="runNumber" TTreeName="runNumber" />
+        <VariableInfo NETName="lumiBlock" TTreeName="lumiBlock" />
+        <VariableInfo NETName="backgroundFlags" TTreeName="backgroundFlags" />
+        <VariableInfo NETName="eventWeight" TTreeName="eventWeight" />
+        <VariableInfo NETName="prwHash" TTreeName="prwHash" />
+        <VariableInfo NETName="pileupEventWeight" TTreeName="pileupEventWeight" />
+        <VariableInfo NETName="xSecEventWeight" TTreeName="xSecEventWeight" />
+        <VariableInfo NETName="actualIntPerCrossing" TTreeName="actualIntPerCrossing" />
+        <VariableInfo NETName="averageIntPerCrossing" TTreeName="averageIntPerCrossing" />
+        <VariableInfo NETName="event_HT" TTreeName="event_HT" />
+        <VariableInfo NETName="event_MHToHT" TTreeName="event_MHToHT" />
+        <VariableInfo NETName="event_NJets" TTreeName="event_NJets" />
+        <VariableInfo NETName="event_NCleanJets" TTreeName="event_NCleanJets" />
+        <VariableInfo NETName="event_NBIBJets" TTreeName="event_NBIBJets" />
+        <VariableInfo NETName="event_HTMiss" TTreeName="event_HTMiss" />
+        <VariableInfo NETName="event_Meff" TTreeName="event_Meff" />
+        <VariableInfo NETName="event_sumMinDR" TTreeName="event_sumMinDR" />
+        <VariableInfo NETName="event_tauRoI_maxET" TTreeName="event_tauRoI_maxET" />
+        <VariableInfo NETName="event_passCalRatio_cleanLLP_TAU60" TTreeName="event_passCalRatio_cleanLLP_TAU60" />
+        <VariableInfo NETName="event_passCalRatio_cleanLLP_TAU60_noiso" TTreeName="event_passCalRatio_cleanLLP_TAU60_noiso" />
+        <VariableInfo NETName="event_passL1TAU60" TTreeName="event_passL1TAU60" />
+        <VariableInfo NETName="event_passCalRatio_cleanLLP_LLPNOMATCH" TTreeName="event_passCalRatio_cleanLLP_LLPNOMATCH" />
+        <VariableInfo NETName="event_passCalRatio_cleanLLP_LLPNOMATCH_noiso" TTreeName="event_passCalRatio_cleanLLP_LLPNOMATCH_noiso" />
+        <VariableInfo NETName="event_passEmulationCalRatio_cleanLLP_LLPNOMATCH_noiso" TTreeName="event_passEmulationCalRatio_cleanLLP_LLPNOMATCH_noiso" />
+        <VariableInfo NETName="event_passL1LLPNOMATCH" TTreeName="event_passL1LLPNOMATCH" />
+        <VariableInfo NETName="event_passEmulationL1LLPNOMATCH" TTreeName="event_passEmulationL1LLPNOMATCH" />
+        <VariableInfo NETName="event_passCalRatio_cleanLLP_LLPRO" TTreeName="event_passCalRatio_cleanLLP_LLPRO" />
+        <VariableInfo NETName="event_passCalRatio_cleanLLP_LLPRO_noiso" TTreeName="event_passCalRatio_cleanLLP_LLPRO_noiso" />
+        <VariableInfo NETName="event_passL1LLPRO" TTreeName="event_passL1LLPRO" />
+        <VariableInfo NETName="event_passJ25" TTreeName="event_passJ25" />
+        <VariableInfo NETName="event_passJ100" TTreeName="event_passJ100" />
+        <VariableInfo NETName="event_passJ400" TTreeName="event_passJ400" />
+        <VariableInfo NETName="event_passJ150_bperf_split" TTreeName="event_passJ150_bperf_split" />
+        <VariableInfo NETName="event_passJ15_bperf_split" TTreeName="event_passJ15_bperf_split" />
+        <VariableInfo NETName="event_passJ320_bperf_split" TTreeName="event_passJ320_bperf_split" />
+        <VariableInfo NETName="event_passJ45_bperf_split_3j45" TTreeName="event_passJ45_bperf_split_3j45" />
+        <VariableInfo NETName="event_passJ55_bperf_split" TTreeName="event_passJ55_bperf_split" />
+        <VariableInfo NETName="event_passJ85_bperf_split" TTreeName="event_passJ85_bperf_split" />
+        <VariableInfo NETName="event_pass3J175" TTreeName="event_pass3J175" />
+        <VariableInfo NETName="event_pass3J200" TTreeName="event_pass3J200" />
+        <VariableInfo NETName="event_pass4J100" TTreeName="event_pass4J100" />
+        <VariableInfo NETName="event_pass4J110" TTreeName="event_pass4J110" />
+        <VariableInfo NETName="event_pass4J120" TTreeName="event_pass4J120" />
+        <VariableInfo NETName="event_PSJ25" TTreeName="event_PSJ25" />
+        <VariableInfo NETName="event_PSJ100" TTreeName="event_PSJ100" />
+        <VariableInfo NETName="event_PSJ400" TTreeName="event_PSJ400" />
+        <VariableInfo NETName="event_PSJ150_bperf_split" TTreeName="event_PSJ150_bperf_split" />
+        <VariableInfo NETName="event_PSJ15_bperf_split" TTreeName="event_PSJ15_bperf_split" />
+        <VariableInfo NETName="event_PSJ320_bperf_split" TTreeName="event_PSJ320_bperf_split" />
+        <VariableInfo NETName="event_PSJ45_bperf_split_3j45" TTreeName="event_PSJ45_bperf_split_3j45" />
+        <VariableInfo NETName="event_PSJ55_bperf_split" TTreeName="event_PSJ55_bperf_split" />
+        <VariableInfo NETName="event_PSJ85_bperf_split" TTreeName="event_PSJ85_bperf_split" />
+        <VariableInfo NETName="event_PS3J175" TTreeName="event_PS3J175" />
+        <VariableInfo NETName="event_PS3J200" TTreeName="event_PS3J200" />
+        <VariableInfo NETName="event_PS4J100" TTreeName="event_PS4J100" />
+        <VariableInfo NETName="event_PS4J110" TTreeName="event_PS4J110" />
+        <VariableInfo NETName="event_PS4J120" TTreeName="event_PS4J120" />
+        <VariableInfo NETName="dPhiLeadBDTsignalWeight_cleanJet" TTreeName="dPhiLeadBDTsignalWeight_cleanJet" />
+        <VariableInfo NETName="dRLeadBDTsignalWeight_cleanJet" TTreeName="dRLeadBDTsignalWeight_cleanJet" />
+        <VariableInfo NETName="dPhiLeadBDTmultijetsWeight_cleanJet" TTreeName="dPhiLeadBDTmultijetsWeight_cleanJet" />
+        <VariableInfo NETName="dRLeadBDTmultijetsWeight_cleanJet" TTreeName="dRLeadBDTmultijetsWeight_cleanJet" />
+        <VariableInfo NETName="eventBDT_value" TTreeName="eventBDT_value" />
+      </Variables>
+    </ArrayGroup>
+    <ArrayGroup Name="group1">
+      <Variables>
+        <VariableInfo NETName="BDT3weights_signal_cleanJet_index" TTreeName="BDT3weights_signal_cleanJet_index" />
+        <VariableInfo NETName="BDT3weights_multijets_cleanJet_index" TTreeName="BDT3weights_multijets_cleanJet_index" />
+        <VariableInfo NETName="BDT3weights_bib_cleanJet_index" TTreeName="BDT3weights_bib_cleanJet_index" />
+      </Variables>
+    </ArrayGroup>
+    <ArrayGroup Name="group2">
+      <Variables>
+        <VariableInfo NETName="CalibJet_isGoodStand" TTreeName="CalibJet_isGoodStand" />
+        <VariableInfo NETName="CalibJet_isGoodLLP" TTreeName="CalibJet_isGoodLLP" />
+        <VariableInfo NETName="CalibJet_ET" TTreeName="CalibJet_ET" />
+        <VariableInfo NETName="CalibJet_pT" TTreeName="CalibJet_pT" />
+        <VariableInfo NETName="CalibJet_eta" TTreeName="CalibJet_eta" />
+        <VariableInfo NETName="CalibJet_phi" TTreeName="CalibJet_phi" />
+        <VariableInfo NETName="CalibJet_width" TTreeName="CalibJet_width" />
+        <VariableInfo NETName="CalibJet_logRatio" TTreeName="CalibJet_logRatio" />
+        <VariableInfo NETName="CalibJet_time" TTreeName="CalibJet_time" />
+        <VariableInfo NETName="CalibJet_jvt" TTreeName="CalibJet_jvt" />
+        <VariableInfo NETName="CalibJet_passJVT" TTreeName="CalibJet_passJVT" />
+        <VariableInfo NETName="CalibJet_BDT3weights_signal" TTreeName="CalibJet_BDT3weights_signal" />
+        <VariableInfo NETName="CalibJet_BDT3weights_multijets" TTreeName="CalibJet_BDT3weights_multijets" />
+        <VariableInfo NETName="CalibJet_BDT3weights_bib" TTreeName="CalibJet_BDT3weights_bib" />
+        <VariableInfo NETName="CalibJet_isCRHLTJet" TTreeName="CalibJet_isCRHLTJet" />
+        <VariableInfo NETName="CalibJet_indexLLP" TTreeName="CalibJet_indexLLP" />
+        <VariableInfo NETName="CalibJet_nTrk" TTreeName="CalibJet_nTrk" />
+        <VariableInfo NETName="CalibJet_sumTrkpT" TTreeName="CalibJet_sumTrkpT" />
+        <VariableInfo NETName="CalibJet_maxTrkpT" TTreeName="CalibJet_maxTrkpT" />
+        <VariableInfo NETName="CalibJet_minDRTrkpt2" TTreeName="CalibJet_minDRTrkpt2" />
+        <VariableInfo NETName="CalibJet_matchPassEmul" TTreeName="CalibJet_matchPassEmul" />
+        <VariableInfo NETName="CalibJet_cluster_nClusters" TTreeName="CalibJet_cluster_nClusters" />
+        <VariableInfo NETName="CalibJet_cluster_lead_center" TTreeName="CalibJet_cluster_lead_center" />
+        <VariableInfo NETName="CalibJet_cluster_lead_x" TTreeName="CalibJet_cluster_lead_x" />
+        <VariableInfo NETName="CalibJet_cluster_lead_y" TTreeName="CalibJet_cluster_lead_y" />
+        <VariableInfo NETName="CalibJet_cluster_lead_z" TTreeName="CalibJet_cluster_lead_z" />
+        <VariableInfo NETName="CalibJet_cluster_lead_Lxy" TTreeName="CalibJet_cluster_lead_Lxy" />
+        <VariableInfo NETName="CalibJet_cluster_lead_ET" TTreeName="CalibJet_cluster_lead_ET" />
+        <VariableInfo NETName="CalibJet_cluster_lead_pT" TTreeName="CalibJet_cluster_lead_pT" />
+        <VariableInfo NETName="CalibJet_cluster_lead_eta" TTreeName="CalibJet_cluster_lead_eta" />
+        <VariableInfo NETName="CalibJet_cluster_lead_phi" TTreeName="CalibJet_cluster_lead_phi" />
+        <VariableInfo NETName="CalibJet_cluster_lead_time" TTreeName="CalibJet_cluster_lead_time" />
+        <VariableInfo NETName="CalibJet_cluster_lead_lambda" TTreeName="CalibJet_cluster_lead_lambda" />
+        <VariableInfo NETName="CalibJet_cluster_lead_lateral" TTreeName="CalibJet_cluster_lead_lateral" />
+        <VariableInfo NETName="CalibJet_cluster_lead_longitudinal" TTreeName="CalibJet_cluster_lead_longitudinal" />
+        <VariableInfo NETName="CalibJet_cluster_lead_first_Eden" TTreeName="CalibJet_cluster_lead_first_Eden" />
+        <VariableInfo NETName="CalibJet_cluster_lead_fracE_ofjet" TTreeName="CalibJet_cluster_lead_fracE_ofjet" />
+        <VariableInfo NETName="CalibJet_Reg_Lxy" TTreeName="CalibJet_Reg_Lxy" />
+        <VariableInfo NETName="CalibJet_Reg_Lz" TTreeName="CalibJet_Reg_Lz" />
+        <VariableInfo NETName="CalibJet_Reg_Lxy_fullEta" TTreeName="CalibJet_Reg_Lxy_fullEta" />
+        <VariableInfo NETName="CalibJet_Reg_Lz_fullEta" TTreeName="CalibJet_Reg_Lz_fullEta" />
+        <VariableInfo NETName="CalibJet_f_EH_layer0_cenbar" TTreeName="CalibJet_f_EH_layer0_cenbar" />
+        <VariableInfo NETName="CalibJet_f_EH_layer1_cenbar" TTreeName="CalibJet_f_EH_layer1_cenbar" />
+        <VariableInfo NETName="CalibJet_f_EH_layer2_cenbar" TTreeName="CalibJet_f_EH_layer2_cenbar" />
+        <VariableInfo NETName="CalibJet_f_EH_layer1_tilegap" TTreeName="CalibJet_f_EH_layer1_tilegap" />
+        <VariableInfo NETName="CalibJet_f_EH_layer2_tilegap" TTreeName="CalibJet_f_EH_layer2_tilegap" />
+        <VariableInfo NETName="CalibJet_f_EH_layer3_tilegap" TTreeName="CalibJet_f_EH_layer3_tilegap" />
+        <VariableInfo NETName="CalibJet_f_EH_layer0_extbar" TTreeName="CalibJet_f_EH_layer0_extbar" />
+        <VariableInfo NETName="CalibJet_f_EH_layer1_extbar" TTreeName="CalibJet_f_EH_layer1_extbar" />
+        <VariableInfo NETName="CalibJet_f_EH_layer2_extbar" TTreeName="CalibJet_f_EH_layer2_extbar" />
+        <VariableInfo NETName="CalibJet_f_EH_layer0_end" TTreeName="CalibJet_f_EH_layer0_end" />
+        <VariableInfo NETName="CalibJet_f_EH_layer1_end" TTreeName="CalibJet_f_EH_layer1_end" />
+        <VariableInfo NETName="CalibJet_f_EH_layer2_end" TTreeName="CalibJet_f_EH_layer2_end" />
+        <VariableInfo NETName="CalibJet_f_EH_layer3_end" TTreeName="CalibJet_f_EH_layer3_end" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer0_bar" TTreeName="CalibJet_f_EEM_layer0_bar" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer1_bar" TTreeName="CalibJet_f_EEM_layer1_bar" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer2_bar" TTreeName="CalibJet_f_EEM_layer2_bar" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer3_bar" TTreeName="CalibJet_f_EEM_layer3_bar" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer0_end" TTreeName="CalibJet_f_EEM_layer0_end" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer1_end" TTreeName="CalibJet_f_EEM_layer1_end" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer2_end" TTreeName="CalibJet_f_EEM_layer2_end" />
+        <VariableInfo NETName="CalibJet_f_EEM_layer3_end" TTreeName="CalibJet_f_EEM_layer3_end" />
+        <VariableInfo NETName="CalibJet_f_EH_l1frac" TTreeName="CalibJet_f_EH_l1frac" />
+      </Variables>
+    </ArrayGroup>
+  </Groups>
+</TTreeUserInfo>
